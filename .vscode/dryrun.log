@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/jaydenpalacios/School/finalProject'
+gcc -c project.c
+gcc project.o -o output
+make: Leaving directory `/Users/jaydenpalacios/School/finalProject'
+ 
